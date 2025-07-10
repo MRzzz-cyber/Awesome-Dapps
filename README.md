@@ -39,7 +39,7 @@ Open-source on-chain revenue sharing infrastructure. Zero fees, audited, permiss
 
 ...
 
-👉 View full list in [📄 DApps.md (Coming Soon)](./DApps.md)
+👉 View full list in [📄 DApps.md]([/DApps.md](https://github.com/MRzzz-cyber/Awesome-Dapps/blob/main/Dapps.md))
 
 ---
 
