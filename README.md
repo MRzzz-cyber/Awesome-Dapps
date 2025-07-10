@@ -54,4 +54,3 @@ Please **open a Pull Request (PR)** with the following format:
 
 One-sentence description of the project, ideally focusing on what makes it unique, decentralized, or impactful.
 
-Template.md(https://github.com/MRzzz-cyber/Awesome-Dapps/blob/main/Template.md)
