@@ -71,3 +71,8 @@
 - **Goldfinch**: [https://goldfinch.finance](https://goldfinch.finance/) - RWA lending protocol for emerging markets
 - **Ondo Finance**: [https://ondo.finance](https://ondo.finance/) - Institutional RWA products (USDY, USTB)
 - **Usual**: [https://usual.money](https://usual.money/) - RWA-backed stablecoin ecosystem (USD0++)
+
+
+
+### Ongoing update (2025/07/10)
+
